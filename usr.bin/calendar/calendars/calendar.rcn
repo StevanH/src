@@ -1,0 +1,35 @@
+/*
+ * RCN - Royal Canadian Navy
+ *
+ * calendar.rcn,v 0.1 2024/05/23 22:53:40 stevan Exp $
+ */
+
+#ifndef _calendar_rcn_
+#define _calendar_rcn_
+
+08/26 1939 - Admiralty signals FUNNEL to Commonwealth & British navies. Commonwealth merchant ships placed under naval control.
+08/31 1939 - HMCShips FRASER & ST. LAURENT ordered “With Dispatch” from Esquimalt to Halifax. Arrive in time to escort first convoy WWII from Halifax.
+09/01 1939 - Britain & France give Germany an ultimatum after invading Poland. All Members of the RCN, RCNR & RCNVR are placed on active service.
+09/03 1939 - England & France declare war on Germany. U30 torpedoes & sinks SS Athenia. Battle Of Atlantic begins.
+09/07 1939 - RCN informed by British Admiralty convoys should begin Halifax to UK immediately, SO Halifax to provide ships for escorts.
+09/10 1939 - Canada Declares War on Germany. First time Canadian Parliament declares war independently from Britain.
+09/16 1939 - First Convoy of WWII leaves Halifax for UK waters, consisting of 15 merchant ships and designated HX-1, under escort of HMCShips SAGUENAY and ST. LAURENT.
+10/23 1939 - HMCS SAGUENAY intercepts German tanker Emmy Friederich in the Yucatan Channel; the merchant crew scuttle their ship to avoid capture.
+12/10 1939 - HMCShips OTTAWA, RESTIGOUCHE, FRASER, ST LAURENT and Royal Navy battleships, HMShips REPULSE and RESOLUTION escort first Troop Convoy TC-1 out of Halifax. 7400 soldiers from 1st Canadian Division embarked.
+03/08 1940 - HMCS ASSINIBOINE & RN light cruiser HMS Dunedin capture German merchantman Hanover as a prize, off Dominican Republic & escort her to Kingston, Jamaica.
+05/12 1940 - HMCS YPRES run down and sunk by the Royal Navy battleship HMS REVENGE while opening the Halifax boom defense, without loss of life.
+06/07 1940 - HMCS BRAS D’OR intercepts and seizes Italian freighter Capo Noli in the Gulf of St. Lawrence. She is taken into Canadian Merchant Service as SS Bic Island.
+06/25 1940 - HMCS FRASER evacuating soldiers from French Coast during OpDYNAMO is sunk in collision with RN cruiser HMS CALCUTTA. Sixty RCN sailors are killed.
+08/15 1940 - First convoy departs from Sydney, Cape Breton to the UK, consisting of 40 merchant ships and designated SC-1, under escort of HMCS REINDEER and five RN ships.
+09/25 1940 - HMCS PRINCE ROBERT intercepts and captures German freighter Weser off Mexico. She is taken into Canadian merchant service and renamed SS Vancouver Island.
+10/19 1940 - HMCS BRAS D’OR foundered in Gulf of St. Lawrence, no survivors from crew of 30.
+10/22 1940 - HMCS MARGAREE, lost in collision with SS Port Fairy, North Atlantic, 142 RCN sailors killed.
+11/06 1940 - HMCS OTTAWA shares in sinking Italian submarine Faa di Bruno, North Atlantic, 1st submarine sunk by RCN in WWII.
+03/26 1941 - HMCS OTTER, armed yacht, destroyed by accidental fire & explosion, off Halifax. Of her ship’s company of 41, nineteen are killed.
+04/01 1941 - HMCS PRINCE HENRY intercepts freighters München and Hermonthis off the coast of Peru. To avoid capture, the German crews set fires and scuttle their ships.
+05/25 1941 - Seven Royal Canadian Navy corvettes under the command of Commander J. D. “Chummy” Prentice, RCN, arrive in St. John’s Newfoundland as the first units of the Newfoundland Escort Force (NEF).
+05/27 1941 - HMCS ST.CLAIR in company with three RN destroyers is attacked by five German bombers west of Galway Ireland. ST. CLAIR sinks the capsized hulk of HMS MASHONA after picking up her survivors.
+08/28 1941 - HMCS NIAGARA takes off crew of German submarine U-570 after their surrender to a Coastal Command aircraft south of Iceland.
+09/10 1941 - HMCShips CHAMBLY & MOOSE JAW attack U-501 with Depth Charges, guns and then ramming. One RCN sailor killed after boarding
+
+#endif /* !_calendar_rcn_ */
